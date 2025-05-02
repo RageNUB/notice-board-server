@@ -4,8 +4,9 @@
 
 # Dependencies
 node_modules
+firebaseServiceAccountKey.json
 
-# Environment variables
+# Environment variables 
 .env
 .env.local
 .env.development.local
